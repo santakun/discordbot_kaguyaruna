@@ -77,4 +77,4 @@ async def call():
     await client.say("https://appear.in/meeting-santa")
 
 # token にDiscordのデベロッパサイトで取得したトークンを入れてください
-client.run("NDY3OTA5MTEwNDUzNzY0MTA2.DkxsKw.0YLpXcg31WCyAtvPQ26iQdPpXZ4")
+client.run("token")
